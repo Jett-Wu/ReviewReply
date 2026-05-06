@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Generated output
+generated/*
+!generated/.gitkeep
+*.tsbuildinfo
+.vite/
+coverage/
+
+# Legacy local npm cache
+.npm-cache/
+npm-cache/
+
+# Legacy root logs
+logs/
+*.log
+dev-server.log
+dev-server.err
+
+# Environment files
+.env
+.env.*
+!.env.example
+*.local
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local archives and generated backups
+*.zip
+reviewreply-project.json
+response-letter.md
