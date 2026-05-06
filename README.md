@@ -2,6 +2,8 @@
 
 A local-first reviewer-comment workspace for tracking manuscript revisions and exporting structured response letters.
 
+**Live demo:** [https://jett-wu.github.io/ReviewReply/](https://jett-wu.github.io/ReviewReply/)
+
 ReviewReply is a small static web app for authors who need to organize reviewer comments during rebuttal, minor revision, or major revision. It keeps every comment as a response unit, tracks manuscript changes separately from response drafting, and exports an English Markdown response letter.
 
 <p align="center">
